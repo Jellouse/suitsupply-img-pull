@@ -2,6 +2,6 @@
 
 Usage:
 
-Run ```Python3 "PDP URL"```
+Run ```python3 scraper.py <PDP URL>```
 
 Enjoy!
