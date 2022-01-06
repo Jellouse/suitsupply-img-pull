@@ -2,6 +2,6 @@
 
 Usage:
 
-Run '''Python3 "PDP URL"'''
+Run ```Python3 "PDP URL"```
 
 Enjoy!
